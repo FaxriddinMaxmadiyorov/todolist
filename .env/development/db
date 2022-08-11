@@ -1,0 +1,4 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=123456789
+POSTGRES_DB=dev_todolist_db
+TEST_POSTGRES_DB=test_todolist_db
